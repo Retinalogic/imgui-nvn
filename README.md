@@ -2,7 +2,7 @@
 An imgui implementation for nvn (the graphics library used by Nintendo Switch) that can be used with Nintendo Switch applications/games.
 This hooks nvn functions, so it might not work if you run this with another executable that also hooks nvn functions.
 
-![hack](https://github.com/TudouHacks/imgui-nvn/raw/master/misc/screenshots/splatoon2.jpg)
+![hack](https://github.com/Retinalogic/imgui-nvn/raw/master/misc/screenshots/splatoon2.jpg)
 
 # Note
 - This project is a work in progress. If you have issues, ask me for support on the [official discord server](https://discord.gg/awq8S2HQq2) for the project.
